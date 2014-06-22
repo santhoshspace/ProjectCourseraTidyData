@@ -1,6 +1,7 @@
-## Here i will give a summary of how to work the script
+## Here i will give a summary of run_analysis.R script
 
-## The R script that generates the tidy data is called run_analysis.R
+## R script that generates the tidy data is called run_analysis.R
+## It also cretaes the dataframes for training and test, merges them, extracts the mean and standard deviation into a separate dataframe and replaces labels and features in the dataframe with descriptions
 
 ## First download the dataset for the project from: 
 ## https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
